@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="continue_text">continue</string>
+    <string name="info_text">Use two phones as a baby monitor system</string>
+</resources>
